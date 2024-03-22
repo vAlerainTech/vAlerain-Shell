@@ -1,5 +1,4 @@
-# vAlerain-Shell
-# VAlerainShell debugging tool
+# vAlerain-Shell VAlerainShell debugging tool
 ![](https://github.com/WhiteFoxLinux/vAlerain-Shell/blob/main/ico/vAlerain.png)
 
 > [!TIP]

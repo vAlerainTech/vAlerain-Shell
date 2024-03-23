@@ -8,3 +8,5 @@
 
 > [!TIP]
 > Multilingual debugger, suitable for platform Windows X86 or x64 architecture
+
+· Simple and efficient, based on c++, c

@@ -13,3 +13,7 @@
 
 > [!WARNING]  
 > This project is based on dev cpp, which may not be suitable for your compiler, but it is definitely better than 537 kind of shit.
+
+# How to compile this repository?
+> [!IMPORTANT]  
+> How to compile this repository?

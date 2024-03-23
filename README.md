@@ -15,5 +15,6 @@
 > This project is based on dev cpp, which may not be suitable for your compiler, but it is definitely better than 537 kind of shit.
 
 # How to compile this repository?
-> [!IMPORTANT]  
-> How to compile this repository?
+> [!NOTE]  
+> You need a Windows computer and a stable C++compiler.You need to start from https://github.com/WhiteFoxLinux/vAlerain-Shell/tree/main/Historical-source-code/ Download the source code from the version number. Press F11 to start compiling
+

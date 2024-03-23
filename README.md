@@ -10,3 +10,6 @@
 > Multilingual debugger, suitable for platform Windows X86 or x64 architecture
 
 · Simple and efficient, based on c++, c
+
+> [!WARNING]  
+> This project is based on dev cpp, which may not be suitable for your compiler, but it is definitely better than 537 kind of shit.

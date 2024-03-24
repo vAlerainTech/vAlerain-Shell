@@ -5,6 +5,9 @@
 ![image](https://img.shields.io/badge/Windows-Ark-blue)
 ![image](https://img.shields.io/badge/Windows-Shell-blue)
 
+> [!CAUTION]
+> Due to the replacement of the idea, a new warehouse vAlerain Shell Pro was created, fuck you dev-cpp!
+
 # vAlerain-Shell 
 
 > [!TIP]
